@@ -1,6 +1,5 @@
 ## Hi there, I am Md Minhajul Islam
-Software Developer | Competitive Programmer | Specialist @Codeforces | 3* @Codechef
-
+Software Developer | Competitive Programmer
 <!--
 **Md-Minhajul-Islam/Md-Minhajul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
