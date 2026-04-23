@@ -1,5 +1,5 @@
 ## Hi there, I am Md Minhajul Islam
-Software Developer | Competitive Programmer
+Software Engineer | Competitive Programmer
 <!--
 **Md-Minhajul-Islam/Md-Minhajul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
