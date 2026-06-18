@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-minhajul-islam-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhajulislammuhammad@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 - Languages    - C, C++, C#, JavaScript
 - Frontend     - React, Tailwind CSS
