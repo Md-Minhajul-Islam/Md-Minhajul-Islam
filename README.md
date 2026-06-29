@@ -3,7 +3,7 @@ Software Engineer | Competitive Programmer
 
 #### Tech Stack:
 - Languages    - C, C++, C#, JavaScript
-- Frontend     - React, Tailwind CSS
+- Frontend     - React, Redux Toolkit, Tailwind CSS
 - Backend      - ASP.NET Core Web API, Express, Entity Framework Core, Mongoose
 - Databases    - SQL Server, MongoDB
 - Tools        - Git, GitHub, Docker, Redis
@@ -13,6 +13,7 @@ Software Engineer | Competitive Programmer
 ### Achievments:
 - Ranked 18th, CoU Regional Programming Contest 2025 (Team: BGC Ninjas)– Comilla University
 - Ranked 41st, PU IUPC 2024 (Team: BGC Ninjas)– Premier University
+- Ranked 189th, ICPC Asia Dhaka Regional Contest 2023 (Team: BGC Ninjas)- BUBT
 - Specialist at Codeforces ( Md Minhaj )– Max: 1468 | 3-star at CodeChef ( minhaj01 )– Max: 1712
 - Solved 2100+ problems across multiple online judges, and participated in 200+ online and onsite contests.
 
