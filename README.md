@@ -2,8 +2,8 @@
 Software Engineer | Competitive Programmer
 
 ### Experience:
-**Astha IT** – Software Engineering Intern *(Jul 2026 – Oct 2026)*
-**Astha IT** – Backend Trainee *(Jan 2026 – Jun 2026)*
+-**Astha IT** – Software Engineering Intern *(Jul 2026 – Oct 2026)*
+-**Astha IT** – Backend Trainee *(Jan 2026 – Jun 2026)*
 
 #### Tech Stack:
 - Languages    - C, C++, C#, JavaScript, TypeScript
